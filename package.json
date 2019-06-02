@@ -1,0 +1,25 @@
+{
+  "name": "youtube-bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app/bin/dev",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yashwardhann <stoner.spruce@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "puppeteer": "^1.15.0",
+    "socket.io": "^2.2.0"
+  },
+  "engines": {
+    "node": "9.10.1"
+  },
+  "scripts": {
+    "start": "node src/bin/dev"
+  }
+}
