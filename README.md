@@ -1,4 +1,4 @@
-# youtube-bots
+# youbot
 
 Puppeteer based bot for YouTube to curate a list of music based on personal preference
 
