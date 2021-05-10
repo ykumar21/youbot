@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
-    "dotenv": "^8.0.0",
+    "dotenv": "^9.0.2",
     "ejs": "^2.6.2",
     "express": "^4.17.1",
     "puppeteer": "^1.18.1",
